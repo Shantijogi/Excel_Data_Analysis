@@ -1,4 +1,4 @@
-### Overview
+# Overview
 This repository demonstrates data analysis using Microsoft Excel with sample data sourced online. The analysis leverages various Excel functions, including:
 
 - SUMIFS, COUNTIFS, MINIFS, MAXIFS for conditional calculations
