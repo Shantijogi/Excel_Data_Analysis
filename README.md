@@ -1,6 +1,6 @@
-##EXCEL DATA ANALYSIS
+## EXCEL DATA ANALYSIS
 
-#Description
+# Description
 This repository showcases data analysis performed using Microsoft Excel, leveraging a wide range of powerful functions and formulas.
 It includes examples and use cases for:
 
@@ -11,7 +11,7 @@ It includes examples and use cases for:
 - Data visualization using charts and conditional formatting
 - The project demonstrates how to create dynamic and automated analysis workflows, where changing inputs updates the results seamlessly—ideal for monthly or customized reporting.
 
-#Key Highlights
+# Key Highlights
 - One-time setup for reusable analysis
 - Ready-to-use templates for common data analysis tasks
 - Examples to help brush up essential Excel skills
